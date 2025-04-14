@@ -1,6 +1,3 @@
-Here's a detailed README.md file for your Fairy Tale Generator Telegram bot:
-
-```markdown
 # Fairy Tale Generator Telegram Bot 🤖✨
 
 A Telegram bot that generates magical fairy tales with accompanying cartoon-style illustrations. Perfect for creating wholesome, family-friendly content for channels or personal enjoyment.
