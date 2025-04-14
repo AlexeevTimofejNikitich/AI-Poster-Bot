@@ -122,4 +122,17 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ✨ Happy storytelling! May your channel be filled with magical adventures! ✨
-```
+
+## Generating a Fairy Tale
+![alt text](image.png)
+
+## Preview with Actions
+
+Admin receives the generated fairy tale with illustration and action buttons:
+✅ Publish - Posts to channel
+🔄 Regenerate Image - Creates a new illustration
+❌ Cancel - Discards the content
+
+![alt text](image-1.png)
+
+Final result posted in the channel with formatted text and generated image.
